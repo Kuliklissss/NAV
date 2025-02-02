@@ -1,0 +1,98 @@
+
+@media screen and (max-width: 450px){
+    body{   background: #ff0000;}
+}
+
+@media screen and (min-width: 451px) and (max-width: 768px)  {
+
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) {
+
+}
+
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) {
+    /* body{   background: #9b9393;} */
+    /* поняли что работает , дальше пишем сюда только!! то что хотим менять , не весь код ! */
+    .second_screen{
+        margin-top: -2.5%;
+    }
+
+    .op {
+        font-family: "eroticascriptctwo";
+        font-size: 24vw;
+        color: rgb(255, 255, 255);
+        }
+    
+        .up2{
+            font-family:"MazzardM";
+            font-size: 2vw;
+            color: rgb(255, 255, 255);
+            margin-left: 6%;
+            margin-top: 7%;
+        }
+        
+        .up3{
+            font-family:"MazzardM";
+            font-size: 2vw;
+            color: rgb(255, 255, 255);
+            margin-left: 62%;
+            margin-top: -5%;
+        }
+        
+        .up4{
+            font-family:"MazzardM";
+            font-size: 2vw;
+            color: rgb(255, 255, 255);
+            margin-left: 8%;
+            margin-top: 10%;
+        }
+        
+        .up5{
+            font-family:"MazzardM";
+            font-size: 2vw;
+            color: rgb(255, 255, 255);
+            margin-left: 22%;
+            margin-top: 2%;
+        }
+        
+        .up6{
+            font-family:"MazzardM";
+            font-size: 2vw;
+            color: rgb(255, 255, 255);
+            margin-left: 60%;
+            margin-top: -2%;
+        }
+        .up{
+            font-family:"MazzardM";
+            font-size: 1.5vw;
+            color: black;
+            margin-left: 26%;
+            margin-top: 5%;
+        }
+}
+
+@media screen and (min-width: 1921px)  {
+    .op {
+        font-family: "eroticascriptctwo";
+        font-size: 40vw;
+        color: rgb(255, 255, 255);
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
